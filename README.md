@@ -1,6 +1,6 @@
 ### Nice to meet you ! 👋
 
-My name is Francis and i'm a front end developper 😁
+My name is Francis and i'm a front end developer 😁
 
 # Background 📚
 
