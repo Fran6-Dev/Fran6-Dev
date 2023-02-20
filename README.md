@@ -15,13 +15,8 @@ Here are the languages and tools in which I could code my various projects :
 ![image](https://user-images.githubusercontent.com/93886761/201967387-823caecd-4845-45eb-aea3-ff67fb02635b.png) 
 ![image](https://user-images.githubusercontent.com/93886761/201968064-762f20f0-fbc5-4d74-8bf6-0a6dfed259f9.png) ![image](https://user-images.githubusercontent.com/93886761/202174307-adf3b2e3-6ad9-4a24-b6e0-73203c8b5ed8.png)
  ![image](https://user-images.githubusercontent.com/93886761/201966808-a65292c2-d0fc-4c50-98cd-1c642cd6d3ee.png) ![image](https://user-images.githubusercontent.com/93886761/201969182-84729d4e-5e93-426f-b734-7fe42e826f01.png)
- ![image](https://user-images.githubusercontent.com/93886761/201967494-a0f68a78-1d0b-4a1d-851a-d26462180a4f.png) ![image](https://user-images.githubusercontent.com/93886761/201967594-386ef52a-62d2-4e45-a70b-eee4ad37420e.png) ![image](https://user-images.githubusercontent.com/93886761/201967674-a5394c1f-c5d0-40b2-8e04-1803bbe706e4.png) ![image](https://user-images.githubusercontent.com/93886761/201967755-bd1c8bb9-f6de-4eaa-b46a-fcc8ec8efbb3.png) ![image](https://user-images.githubusercontent.com/93886761/201967858-d596690c-e4f4-4dc4-b678-d272cd3572e4.png)
+ ![image](https://user-images.githubusercontent.com/93886761/201967494-a0f68a78-1d0b-4a1d-851a-d26462180a4f.png) ![image](https://user-images.githubusercontent.com/93886761/201967594-386ef52a-62d2-4e45-a70b-eee4ad37420e.png) ![image](https://user-images.githubusercontent.com/93886761/201967674-a5394c1f-c5d0-40b2-8e04-1803bbe706e4.png) ![image](https://user-images.githubusercontent.com/93886761/201967755-bd1c8bb9-f6de-4eaa-b46a-fcc8ec8efbb3.png) ![image](https://user-images.githubusercontent.com/93886761/201967858-d596690c-e4f4-4dc4-b678-d272cd3572e4.png) ![image](https://user-images.githubusercontent.com/93886761/201968095-b7723c3e-5845-4d3a-a1e2-16017c9ffb2f.png)
 
-
-
-I am also learning the following languages : 
-
-![image](https://user-images.githubusercontent.com/93886761/201968095-b7723c3e-5845-4d3a-a1e2-16017c9ffb2f.png)
 
 
 
